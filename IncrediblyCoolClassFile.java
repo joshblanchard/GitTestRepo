@@ -10,7 +10,7 @@
 
 //yada yada yada
 
-/another change
+///another change
 
 //This is a change we want
 //It's very important
@@ -19,3 +19,5 @@
 //Alright, I have fixed things up!
 
 //Now I'm breaking things , this is a bad commit
+
+//Hey, I can't believe I'm still testing git, this is so much fun
