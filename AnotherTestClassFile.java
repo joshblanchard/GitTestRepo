@@ -7,23 +7,8 @@ Line 2
 Line 3
 
 Line 4
-<<<<<<< .mine
 
-=======
+Line 5
 
->>>>>>> .theirs
-Josh's Change
-Mark's Change
-<<<<<<< .mine
-
-=======
-
->>>>>>> .theirs
-Mark's second Chnage
-<<<<<<< .mine
-
-=======
-
->>>>>>> .theirs
 Mark's thrird change
 Mark's 4th Change
