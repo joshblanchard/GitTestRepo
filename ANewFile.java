@@ -23,6 +23,14 @@
 
 
 //THIS IS VERY DANGEROUS/
+<<<<<<< .mine
 //AND THE BUILD WILL BREAK
 
 //Another test test
+
+=======
+//AND THE BUILD WILL BREAK
+
+
+//A change on the trunk
+>>>>>>> .theirs
